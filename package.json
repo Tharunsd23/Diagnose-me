@@ -52,10 +52,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vishakha-a/Diagnose-me.git"
+    "url": "git+https://github.com/overlordiam/Diagnose-me"
   },
   "bugs": {
-    "url": "https://github.com/vishakha-a/Diagnose-me/issues"
+    "url": "https://github.com/overlordiam/Diagnose-me/issues"
   },
-  "homepage": "https://github.com/vishakha-a/Diagnose-me#readme"
+  "homepage": "https://github.com/overlordiam/Diagnose-me#readme"
 }
